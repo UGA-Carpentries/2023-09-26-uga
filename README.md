@@ -1,3 +1,14 @@
+# Software Carpentry Workshop - Version Control with Git
+UGA Libraries Digilab & the Institute of Bioinformatics
+26 Sept 2023
+
+**Workshop website**: https://gvwilson.github.io/2023-09-26-uga
+
+
+
+<br><br><br>
+# Instructions for updating the repository to adjust the website (copied from Carpentries master repo):
+
 [![Website](https://github.com/carpentries/workshop-template/actions/workflows/website.yml/badge.svg)](https://github.com/carpentries/workshop-template/actions/workflows/website.yml)
 
 # The Carpentries Workshop Template
