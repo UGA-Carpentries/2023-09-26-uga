@@ -2,7 +2,7 @@
 UGA Libraries Digilab & the Institute of Bioinformatics
 26 Sept 2023
 
-**Workshop website**: https://gvwilson.github.io/2023-09-26-uga
+**Workshop website**: https://UGA-Carpentries/.github.io/2023-09-26-uga
 
 
 
